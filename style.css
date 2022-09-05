@@ -1,0 +1,61 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(/images/17025123.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: "Roboto", sans-serif;
+  color: #3a37b0;
+}
+
+.container1 {
+  background-color: #060613;
+  width: 460px;
+  height: auto;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.signUp {
+  padding-top: 15px;
+  color: #4b54ac;
+  text-transform: uppercase;
+}
+
+.btnSubmit {
+  background-color: transparent;
+  margin-top: 10px;
+  color: #fe7bbf;
+  border: 2px solid #fe7bbf;
+  font-weight: 600;
+  padding: 5px 15px;
+}
+.btnSubmit:hover {
+  border-color: #fe7bbf;
+  background-color: #fe7bbf;
+  color: white;
+}
+
+.btnClear {
+  background-color: transparent;
+  border: 2px solid #974ec3;
+  color: #974ec3;
+  padding: 5px 15px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.btnClear:hover {
+  background-color: #974ec3;
+  border-color: #974ec3;
+  color: white;
+}
+
+.footer {
+  margin-top: 30px;
+  color: #3a37b0;
+}
+
+/*# sourceMappingURL=style.css.map */
